@@ -2,7 +2,7 @@
 
 A browser extension that manages a list of leads and saves them to local storage. It has buttons for adding the current tab's URL, deleting all leads, and adding a lead from an input field. The list is rendered in the DOM as an HTML list.
 
-**Link to project:**
+![opening the lead tracker chrome extension and saving an input and a linkedin profile URL](./lead-tracker.gif)
 
 ## How's it made
 
